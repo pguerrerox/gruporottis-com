@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{51:function(e,n,t){"use strict";t.r(n);var c=t(0),a=t.n(c);n.default=function(){return a.a.createElement("div",{style:{textAlign:"center"}},a.a.createElement("img",{src:"logo.png"}),a.a.createElement("h1",null,"Página en construcción"))}}}]);
