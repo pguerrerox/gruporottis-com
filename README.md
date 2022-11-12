@@ -1,6 +1,6 @@
 # gruporottis.com
 
-This is going to be a website build with `reach-static` and deploy on `Github Pages`.
+This is going to be a website build with `react-static` and deploy on `Github Pages`.
 
 ### Technologies
 
