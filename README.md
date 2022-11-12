@@ -6,7 +6,7 @@ This is going to be a website build with `reach-static` and deploy on `Github Pa
 
 - HTML - CSS - JS, the usual suspects.
 - react.js
-- reach-static
+- react-static
 
 Happy coding!
 
